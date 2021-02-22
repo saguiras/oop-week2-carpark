@@ -1,4 +1,5 @@
-﻿using System;
+using System;
+using System.Collections.Generic;
 
 namespace carpark
 {
@@ -34,15 +35,17 @@ namespace carpark
     {
         static void Main(string[] args)
         {
-            Custumers Marc = new Custumers("Marc", 2f);
-            Custumers Pierrick = new Custumers("Pierrickr", 20.5f);
-            Custumers Louis = new Custumers("Louis", 3f);
-            Custumers Chloe = new Custumers("Chloe", 3.2f);
+            List<Custumers> _Custumers = new List<Custumers>();
 
-            Console.WriteLine(Marc);
-            Console.WriteLine(Louis);
-            Console.WriteLine(Chloe);
-            Console.WriteLine(Pierrick);
+            _Custumers.Add(new Custumers("Marc", 2f));
+            _Custumers.Add(new Custumers("Pierrickr", 20.5f));
+            _Custumers.Add(new Custumers("Louis", 3f));
+            _Custumers.Add(new Custumers("Chloe", 3.2f));
+
+            foreach (Custumers custumer in _Custumers)
+            {
+                Console.WriteLine(custumer);
+            }
         }
     }
 }
