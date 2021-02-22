@@ -1,0 +1,13 @@
+C:\Users\julien\source\repos\carpark\bin\Debug\netcoreapp3.1\carpark.exe
+C:\Users\julien\source\repos\carpark\bin\Debug\netcoreapp3.1\carpark.deps.json
+C:\Users\julien\source\repos\carpark\bin\Debug\netcoreapp3.1\carpark.runtimeconfig.json
+C:\Users\julien\source\repos\carpark\bin\Debug\netcoreapp3.1\carpark.runtimeconfig.dev.json
+C:\Users\julien\source\repos\carpark\bin\Debug\netcoreapp3.1\carpark.dll
+C:\Users\julien\source\repos\carpark\bin\Debug\netcoreapp3.1\carpark.pdb
+C:\Users\julien\source\repos\carpark\obj\Debug\netcoreapp3.1\carpark.csprojAssemblyReference.cache
+C:\Users\julien\source\repos\carpark\obj\Debug\netcoreapp3.1\carpark.csproj.CoreCompileInputs.cache
+C:\Users\julien\source\repos\carpark\obj\Debug\netcoreapp3.1\carpark.AssemblyInfoInputs.cache
+C:\Users\julien\source\repos\carpark\obj\Debug\netcoreapp3.1\carpark.AssemblyInfo.cs
+C:\Users\julien\source\repos\carpark\obj\Debug\netcoreapp3.1\carpark.dll
+C:\Users\julien\source\repos\carpark\obj\Debug\netcoreapp3.1\carpark.pdb
+C:\Users\julien\source\repos\carpark\obj\Debug\netcoreapp3.1\carpark.genruntimeconfig.cache
